@@ -9,4 +9,5 @@ Some local config stuff for the following:
 To install the config on a new machine:
 
 1. Clone this repo
-
+2. Run
+    `./install.sh`
